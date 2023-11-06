@@ -1,5 +1,5 @@
 # Hello, I'm Fabian Villagra 👋
-
+```javascript
 const description = {
     name: 'Fabián Villagra',
     country: 'Argentina',
@@ -29,5 +29,5 @@ function getInfo() {
 
 const information = getInfo();
 console.log(information);
-
+```
 ## Thank you for visiting my profile!
