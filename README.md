@@ -2,7 +2,7 @@
 ```javascript
 const description = {
     name: 'Fabián Villagra',
-    age: '18'
+    age: '18',
     country: 'Argentina',
     city: 'Formosa',
     role: 'Software Development Student (Future FullStack Developer)',
