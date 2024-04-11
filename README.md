@@ -2,10 +2,10 @@
 ```javascript
 const description = {
     name: 'Fabián Villagra',
-    age: '18',
+    age: '19',
     country: 'Argentina',
     city: 'Formosa',
-    role: 'Software Development Student (Future FullStack Developer)',
+    role: 'Software Development Student',
     languages: ['Spanish', 'English'],
     technologies: ['HTML', 'CSS', 'React', 'Express', 'MySQL', 'MongoDB'],
     projects: 'Currently, I am working on several projects, both personal and academic, to enhance my software development skills.',
