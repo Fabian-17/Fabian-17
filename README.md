@@ -1,14 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Fabián+Villagra+👋;Fullstack+Developer+%2F+DevOps+Engineer;Backend+Focused+%7C+Cybersecurity+%7C+AI+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Fabián+Villagra+👋;Fullstack+Developer+%2F+DevOps+Engineer;Backend+Focused+%7C+Cybersecurity+%7C+AI+Enthusiast" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fabian-17&color=0891b2&style=flat-square&label=Profile+Views" alt="Profile Views"/>
-</div>
 
 ---
 
-## 🧑‍� About Me
+## About Me
 
 ```javascript
 const fabian = {
@@ -19,10 +16,10 @@ const fabian = {
     email: "fabianipf17@gmail.com",
     
     specializations: [
-        "Backend Development 🔧",
-        "Cybersecurity 🔒", 
-        "Artificial Intelligence 🤖",
-        "Scalable Solutions ⚡"
+        "Backend Development",
+        "Cybersecurity", 
+        "Artificial Intelligence",
+        "Scalable Solutions"
     ],
     
     personality: [
@@ -33,15 +30,15 @@ const fabian = {
     mission: "Building scalable, secure and efficient solutions",
     
     sayHi() {
-        console.log("Thanks for visiting! Let's build something amazing together! 🚀");
-        console.log(`📧 Contact me: ${this.email}`);
+        console.log("Thanks for visiting! Let's build something amazing together!");
+        console.log(`Contact me: ${this.email}`);
     }
 };
 
 fabian.sayHi();
 ```
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -64,6 +61,7 @@ fabian.sayHi();
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools
@@ -86,7 +84,7 @@ fabian.sayHi();
 
 </div>
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fabian-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
@@ -100,23 +98,23 @@ fabian.sayHi();
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabian-17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## 🎯 Professional Focus
+## Professional Focus
 
-- 🔧 **Backend Development**: Building robust and scalable server-side solutions
-- 🔒 **Cybersecurity**: Implementing secure authentication and data protection
-- 🤖 **Artificial Intelligence**: Integrating AI solutions with modern applications
-- ⚡ **DevOps**: Streamlining deployment processes with Docker and CI/CD
-- 🚀 **Scalable Solutions**: Designing systems that grow with business needs
-- 💡 **Continuous Learning**: Always exploring new technologies and best practices
+- **Backend Development**: Building robust and scalable server-side solutions
+- **Cybersecurity**: Implementing secure authentication and data protection
+- **Artificial Intelligence**: Integrating AI solutions with modern applications
+- **DevOps**: Streamlining deployment processes with Docker and CI/CD
+- **Scalable Solutions**: Designing systems that grow with business needs
+- **Continuous Learning**: Always exploring new technologies and best practices
 
-## 💼 What I Bring to the Table
+## What I Bring to the Table
 
-- ✅ **Responsibility & Organization**: Delivering quality code on time
-- 🤝 **Team Collaboration**: Strong communication and teamwork skills
-- 🔍 **Problem Solving**: Analytical approach to complex challenges
-- 📈 **Growth Mindset**: Seeking environments that foster professional development
+- **Responsibility & Organization**: Delivering quality code on time
+- **Team Collaboration**: Strong communication and teamwork skills
+- **Problem Solving**: Analytical approach to complex challenges
+- **Growth Mindset**: Seeking environments that foster professional development
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
@@ -126,14 +124,11 @@ fabian.sayHi();
 
 </div>
 
-### 📍 Based in Formosa, Argentina
+### Based in Formosa, Argentina
 **Available for remote work and collaboration worldwide**
 
 ---
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Quote" />
-</div>
 
 <div align="center">
   <b>✨ Thanks for visiting my profile! Feel free to explore my repositories ✨</b>
