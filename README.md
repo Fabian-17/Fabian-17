@@ -13,7 +13,7 @@ const fabian = {
     role: "Fullstack Developer / DevOps Engineer",
     location: "Formosa, Argentina 🇦🇷",
     phone: "+54 3718 554320",
-    email: "fabianipf17@gmail.com",
+    email: "fabianvillagra28@gmail.com",
     
     specializations: [
         "Backend Development",
