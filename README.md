@@ -1,135 +1,68 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey!+I'm+Fabián+Villagra+👋;Fullstack+Developer+%2F+DevOps+Engineer;Backend+Focused+%7C+Cybersecurity+%7C+AI+Enthusiast" alt="Typing SVG" />
-</div>
+![Fabián Villagra. Backend de sistemas que ya tienen usuario. Formosa, Argentina.](assets/parte.png)
 
+Soy Fabián Villagra. Vivo en Formosa y trabajo el backend de sistemas que ya tienen usuarios.
 
----
+En la Municipalidad de Clorinda eso es el inventario de suministros, la app donde el vecino consulta y paga tributos, y el sistema de recursos humanos del personal. Los servicios corren en Ubuntu, dentro de Docker.
 
-## About Me
+Antes armé la API de una plataforma de recursos humanos, el servidor de una academia de estadística con un tutor de OpenAI, y el backend de una app de taxis con el auto en el mapa.
 
-```javascript
-const fabian = {
-    name: "Fabián Villagra",
-    role: "Fullstack Developer / DevOps Engineer",
-    location: "Formosa, Argentina 🇦🇷",
-    phone: "+54 3718 554320",
-    email: "fabianvillagra28@gmail.com",
-    
-    specializations: [
-        "Backend Development",
-        "Cybersecurity", 
-        "Artificial Intelligence",
-        "Scalable Solutions"
-    ],
-    
-    personality: [
-        "Responsible", "Organized", "Team Player",
-        "Quality-focused", "Growth-oriented"
-    ],
-    
-    mission: "Building scalable, secure and efficient solutions",
-    
-    sayHi() {
-        console.log("Thanks for visiting! Let's build something amazing together!");
-        console.log(`Contact me: ${this.email}`);
-    }
-};
+El recorrido completo está en el [portfolio](https://portfolio-fabian-villagra.netlify.app/).
 
-fabian.sayHi();
-```
+## En uso
 
-## Tech Stack
+### Municipalidad de Clorinda
 
-<div align="center">
+agosto 2025 — hoy
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Control de suministros y compras públicas. Autogestión ciudadana en Flutter: consulta de tributos, cobro con Mercado Pago y confirmación por webhooks. Recursos humanos para el personal municipal: áreas, contratos, licencias, adicionales y el ingreso de cada día. Cada área tiene un encargado, y es esa persona quien marca el ingreso de su gente. MySQL y SQL Server, según el sistema.
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### Kentra
 
-### Backend
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+enero — julio 2025 · freelance
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+API para recursos humanos: organigrama, roles, eventos internos y personal en campo, ubicado con Google Maps.
+Sesión con JWT y cookies HTTPOnly. Imágenes en Cloudinary.
+La interfaz es React con Redux Toolkit.
 
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Stats Academy
 
-### Security & Authentication
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![Bcrypt](https://img.shields.io/badge/Bcrypt-3178C6?style=for-the-badge&logo=letsencrypt&logoColor=white)
+marzo — diciembre 2024
 
-### APIs & Services
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
+Backend de una plataforma para enseñar estadística.
+Cuentas, roles, evaluaciones con corrección automática y tableros de progreso.
+Un tutor por chat con la API de OpenAI, y avisos en vivo por WebSockets.
+Versión web y una app móvil.
 
-### Data Science
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+### tuRemo
 
-</div>
+abril — diciembre 2023
 
-## GitHub Statistics
+Pedido de taxis con geolocalización.
+El pasajero elige la empresa, sigue el auto en el mapa y habla con el conductor por chat.
+Pasajero y conductor reciben el cambio de estado: asignado, en ruta, finalizado.
+Node.js, React, MySQL y Socket.io.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fabian-17&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
+## Por mi cuenta
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabian-17&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
+Pasé los precios de vehículos de ACARA a una base que se puede consultar. Un script en Python lee el ODS, separa marca, modelo y versión, y los guarda en MySQL. Encima hay una API para pedir esa valuación.
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fabian-17&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+[acara-precios-mysql](https://github.com/Fabian-17/acara-precios-mysql) · [ApiAcara](https://github.com/Fabian-17/ApiAcara)
 
-## Professional Focus
+## Herramientas
 
-- **Backend Development**: Building robust and scalable server-side solutions
-- **Cybersecurity**: Implementing secure authentication and data protection
-- **Artificial Intelligence**: Integrating AI solutions with modern applications
-- **DevOps**: Streamlining deployment processes with Docker and CI/CD
-- **Scalable Solutions**: Designing systems that grow with business needs
-- **Continuous Learning**: Always exploring new technologies and best practices
+- **Lenguajes.** TypeScript, JavaScript, Python
+- **Servidor.** Node.js, Express, NestJS, FastAPI, Socket.io
+- **Cliente.** React, React Native, Redux Toolkit
+- **Datos.** MySQL, PostgreSQL, SQL Server, MongoDB
+- **Publicación.** Docker, Ubuntu, Git
+- **Integraciones.** JWT, Mercado Pago, OpenAI, Google Maps, Cloudinary
 
-## What I Bring to the Table
+## Formación
 
-- **Responsibility & Organization**: Delivering quality code on time
-- **Team Collaboration**: Strong communication and teamwork skills
-- **Problem Solving**: Analytical approach to complex challenges
-- **Growth Mindset**: Seeking environments that foster professional development
+Tecnicatura en Desarrollo de Software Multiplataforma, Instituto Politécnico Formosa (2023–2024).
 
-## Let's Connect
+## Para escribirme
 
-<div align="center">
+Trabajo remoto desde Formosa.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fabián-villagra-35b1b8275/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fabianvillagra28@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+543718554320)
-
-</div>
-
-### Based in Formosa, Argentina
-**Available for remote work and collaboration worldwide**
-
----
-
-
-<div align="center">
-  <b>✨ Thanks for visiting my profile! Feel free to explore my repositories ✨</b>
-</div>
+[Portfolio](https://portfolio-fabian-villagra.netlify.app/) · [LinkedIn](https://www.linkedin.com/in/carlos-fabián-villagra-35b1b8275/) · [Email](mailto:fabianvillagra28@gmail.com) · [WhatsApp](https://wa.me/543718554320)
